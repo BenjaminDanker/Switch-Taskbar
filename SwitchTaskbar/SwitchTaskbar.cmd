@@ -1,0 +1,1 @@
+Powershell "C:\Users\bsd20\source\repos\SwitchTaskbar\SwitchTaskbar\SwitchTaskbar.ps1"
