@@ -1,0 +1,1 @@
+Powershell "%LOCALAPPDATA%\SwitchTaskbar\SwitchTaskbar.ps1"
